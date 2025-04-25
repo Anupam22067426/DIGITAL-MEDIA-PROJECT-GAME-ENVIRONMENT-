@@ -1,0 +1,51 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.243586452)
+
+newmtl big_box
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl container
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl hori
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl small_box
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl swithces_big
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl wire
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
